@@ -1,4 +1,4 @@
-<img  src="https://media.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1698883200&v=beta&t=s5dzeckUC08Jo-VEqY3xEdOMcE5oXKOfU-CKKK5F-gA" alt="coding" >
+<img  src="https://www.softprodigy.com/storage/2021/06/JS-Development-Gif.gif" alt="coding" >
 <h1 align="center">Hi 👋, I'm Naresh R. Sahu</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
